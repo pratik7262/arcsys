@@ -19,12 +19,26 @@ Before you begin, ensure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/pratik7262/arcsys
+   ```
 
+2. Go To Project Directory
+
+   ```bash
    cd your-project
+   ```
 
+3. Install Dependencies
+
+   ```bash
    npm install
+   ```
 
+4. Start Development Server
+
+   ```bash
    npm start
    ```
 
 The application will be accessible at http://localhost:3000.
+
+For See More Projects Visit https://pratikshinde.in
